@@ -1,0 +1,12 @@
+# Exclude specific folders and files
+/data/alice/
+/data/aclImdb/
+/htmlcov/
+/results/
+/.idea/
+/.pytest_cache/
+/venv/
+/.coverage
+
+# Exclude __pycache__ subfolders
+__pycache__/
